@@ -5,7 +5,7 @@ https://goldman-sachs-portfolio-management.vercel.app/
 
 ## Overview
 
-This project is a collaborative effort between [Your School Name] and [Goldman Sachs](https://www.goldmansachs.com/). As the lead frontend developer and UI/UX designer, I've created a powerful portfolio management application with beautiful user interface and user experience using React.js.
+This project is a collaborative effort between Singapore Management University and [Goldman Sachs](https://www.goldmansachs.com/). As the lead frontend developer and UI/UX designer, I've created a powerful portfolio management application with beautiful user interface and user experience using React.js.
 
 Visit the live project: [Project Demo](https://goldman-sachs-portfolio-management.vercel.app/)
 
